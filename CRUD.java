@@ -28,6 +28,12 @@ public class CRUD {
 	    	insertDB("Co się wydarzyło w Madison County", "1995", "Clint Eastwood", "http://www.filmweb.pl/film/Co+si%C4%99+wydarzy%C5%82o+w+Madison+County-1995-641", "4");
 
 
+		//Ania K.
+		insertDB("Nietykalni", "2011","Olivier Nakache, Eric Toledano","http://www.filmweb.pl/film/Nietykalni-2011-583390", "1");
+	    	insertDB("Marley i ja", "2008","David Frankel ","http://www.filmweb.pl/film/Marley+i+Ja-2008-411302", "2");
+	    	insertDB("Dzika droga", "2014","Jean-Marc Vallee","http://www.filmweb.pl/film/Dzika+droga-2014-694545", "3");
+	    	insertDB("Księga ocalenia", "2010","Albert Hughes","http://www.filmweb.pl/film/Ksi%C4%99ga+ocalenia-2010-450356", "4");
+
 	  }
 		static String dbURL = "jdbc:mysql://mysql.agh.edu.pl:3306/aguzy";
 		static String username = "aguzy";
